@@ -8,6 +8,12 @@ The project aims to have a go at this problem by implementing an LSTM training m
 
 This could potentially see significant improvements in prediction and also could allow much larger datasets to train the model.
 
+# Why QLSTM?
+QLSTM capitalizes on quantum entanglement to reduce the number of parameters in the quantum circuit. This greatly reduces the noise and generates high expressive power.
+~Here, xpressive power refers to the ability to represent certain functions or distributions with a limited number of parameters.
+QLSTM learns faster and takes less epochs.
+Stable convergence achievable in comparison to classical LSTM, particularly, spikes in loss function observed in classical LSTM is not observed in QLSTM.
+
 # Constributors
 Sriram B. Swami - 22BCE5103
 
