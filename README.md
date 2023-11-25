@@ -17,7 +17,7 @@ QLSTM learns faster and takes less epochs.
 
 Stable convergence achievable in comparison to classical LSTM, particularly, spikes in loss function observed in classical LSTM is not observed in QLSTM.
 
-# Constributors
+# Contributors
 Sriram B. Swami - 22BCE5103
 
 Manasa Ganesh - 22BAI1262
