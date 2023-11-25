@@ -1,5 +1,5 @@
 # QLSTM-Prediction
-This repository pertains our investigatory project that delves into the potential applications of implementing a predictive algorithm to forecast the weather, chances of rain in particular, using a quantum approach.
+This repository pertains to our investigatory project that delves into the potential applications of implementing a predictive algorithm to forecast the weather, chances of rain in particular, using a quantum approach.
 
 A quantum approaches need not always be faster but quantum algorithms are shown to exhibit significantly better results in comparison to classical approaches regarding problems whose answers are hard to calculate but easy to verify.
 Evidently, forecasting the chances of rain is one such problem.
