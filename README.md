@@ -7,3 +7,9 @@ Evidently, forecasting the chances of rain is one such problem
 The project aims to have a go at this problem by implementing an LSTM training model using quantum algorithms by implementing the LSTM gates using VQCs (Variational Quantum Circuits).
 
 This could potentially see significant improvements in prediction and also could allow much larger datasets to train the model.
+
+# Constributors
+Sriram B. Swami - 22BCE5103
+Manasa Ganesh - 22BAI1262
+Meghna Varma - 22BCE5085
+Navin Kumar - 22BCE1020
